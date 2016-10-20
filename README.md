@@ -1,3 +1,6 @@
+
+! [WikiStand2014](https://github.com/WikiHouseNL/WHNL-WikiStand2014/blob/master/WikiStand2014_WikiHouseNL.jpg)
+
 WikiStand2014, built several times as an open source DIY demonstration model for WikiHouseNL chapter.
 We exposed the model [sometimes partly] on events like:
 - 'Gevel2014'[Ahoy, Rotterdam, NL]
@@ -19,7 +22,7 @@ Terms of use
 
 By downloading these files or information you agree to the following terms and conditions.
 
-Information is shared without any kind of warranty or guarantee All Information is provided ‘as is’. No representations or warranties express or implied are made regarding the Wikihouse Info, its accuracy, completeness, functionality or fitness for a particular use in a particular location.
+Information is shared without any kind of warranty or guarantee All Information is provided â€˜as isâ€™. No representations or warranties express or implied are made regarding the Wikihouse Info, its accuracy, completeness, functionality or fitness for a particular use in a particular location.
 
 You are solely responsible for the use of the information By using this information you assume full responsibility for any loss resulting from use or inability to use the Wikihouse Info, and forever releases WikiHouse Foundation or other WikiHouse users from any liability for such loss; including but not limited to loss of profits, goodwill or assets.
 
