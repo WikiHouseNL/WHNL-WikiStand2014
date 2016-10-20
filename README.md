@@ -1,14 +1,13 @@
+WikiStand2014
 
-! [WikiStand2014](https://github.com/WikiHouseNL/WHNL-WikiStand2014/blob/master/WikiStand2014_WikiHouseNL.jpg)
-
-WikiStand2014, built several times as an open source DIY demonstration model for WikiHouseNL chapter.
+Built several times as an open source DIY demonstration model for WikiHouseNL chapter.
 We exposed the model [sometimes partly] on events like:
-- 'Gevel2014'[Ahoy, Rotterdam, NL]
-- 'Gevel2015' [Jaarbeurs, Utrecht, NL]
-- 'Building Holland 2014' [RAI, Amsterdam, NL]
-- 'Dag van de Architectuur 2014' [Meelfabriek, Leiden, NL]
-- 'Festival Ambacht21' in 2015 & 2016 [Zutphen, NL]
-- 'symposium BouwBetaalbaarAnders' 2016 [KAF, Almere, NL]
+- Gevel2014 [Ahoy, Rotterdam, NL]
+- Gevel2015 [Jaarbeurs, Utrecht, NL]
+- Building Holland 2014 [RAI, Amsterdam, NL]
+- Dag van de Architectuur 2014 [Meelfabriek, Leiden, NL]
+- Festival Ambacht21 in 2015 & 2016 [Zutphen, NL]
+- symposium BouwBetaalbaarAnders 2016 [KAF, Almere, NL]
 The model is based on the WikiHouse built on the New York Maker Faire by WikiHouse.cc and Sketchup in 2013.
 
 The cutting files can be used, but check the margins as used very carefully first.
