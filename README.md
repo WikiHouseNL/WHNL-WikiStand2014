@@ -1,4 +1,4 @@
-WikiStand2014
+#WikiStand2014
 
 Built several times as an open source DIY demonstration model for WikiHouseNL chapter.
 We exposed the model [sometimes partly] on events like:
@@ -10,14 +10,16 @@ We exposed the model [sometimes partly] on events like:
 - symposium BouwBetaalbaarAnders 2016 [KAF, Almere, NL]
 The model is based on the WikiHouse built on the New York Maker Faire by WikiHouse.cc and Sketchup in 2013.
 
+![WikiHouseNL](https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2015/10/WikiHouseNL_CC.jpg)
+
 The cutting files can be used, but check the margins as used very carefully first.
 The margins depends on the thickness of the panels, be aware if you apply OSB instead of plywood/ multiplex that these margins are even more important!
 Building the model is own responsibility.
 
-WikiHouseNL team
+[WikiHouseNL team](http://www.hollandwikihouse.nl/)
 
 
-Terms of use
+#Terms of use
 
 By downloading these files or information you agree to the following terms and conditions.
 
